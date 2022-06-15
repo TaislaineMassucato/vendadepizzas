@@ -1,2 +1,2 @@
-# vendadepizzas
- Controle de Venda de Pizzas
+# Controle de Venda de Pizzas
+ Projeto simples, criado para treinamento e estudo da linguagem JavaScript.
